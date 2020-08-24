@@ -8,10 +8,10 @@
 
 ### link to the webapp:[https://iplscorepredictor-api.herokuapp.com/]
 
-• A glimpse of the web app:
-
-![GIF](https://github.com/KBJ09/IPL-First-Inning-Score-Predictor/blob/master/static/ipl%20webapp.gif)
-
 If you are looking for __code__,click on the link mentioned below,
 
 Link: https://github.com/KBJ09/IPL-First-Inning-Score-Predictor/blob/master/IPL%20First%20Inning%20Score%20Predictor.py
+
+• A glimpse of the web app:
+
+![GIF](https://github.com/KBJ09/IPL-First-Inning-Score-Predictor/blob/master/static/ipl%20webapp.gif)
