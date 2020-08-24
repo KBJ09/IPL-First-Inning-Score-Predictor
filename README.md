@@ -2,9 +2,9 @@
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) 
 ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
-• A __machine learnng web application__, Built with __Flask__, Deployed using __Heroku__ platform!
+• A __machine learning web application__, Built with __Flask__, Deployed using __Heroku__ platform!
 
-• If you want to visit the webapp just click the link below.
+• If you want to visit the webapp just click on the link mentioned below.
 
 ### link to the webapp:[https://iplscorepredictor-api.herokuapp.com/]
 
