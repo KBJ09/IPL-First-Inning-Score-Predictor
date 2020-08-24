@@ -10,4 +10,4 @@
 
 • A glimpse of the web app:
 
-![GIF](static/ipl webapp.gif)
+![GIF](https://github.com/KBJ09/IPL-First-Inning-Score-Predictor/blob/master/static/ipl%20webapp.gif)
