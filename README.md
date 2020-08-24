@@ -8,5 +8,5 @@
 
 ### link to the webapp:[https://iplscorepredictor-api.herokuapp.com/]
 
-
-
+• A glimpse of the web app:
+![GIF](static/ipl webapp.gif)
