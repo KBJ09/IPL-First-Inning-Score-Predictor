@@ -4,9 +4,9 @@
 
 . A machine learnng web application, Built with Flask, Deployed using Heroku platform!
 
-. If you want to visit the webpage just click the link below.
+. If you want to visit the webapp just click the link below.
 
-### link to the webpage:[https://iplscorepredictor-api.herokuapp.com/]
+### link to the webapp:[https://iplscorepredictor-api.herokuapp.com/]
 
 
 
