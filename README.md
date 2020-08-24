@@ -10,7 +10,7 @@
 
 If you are looking for __code__,click on the link mentioned below,
 
-Link: https://github.com/KBJ09/IPL-First-Inning-Score-Predictor/blob/master/IPL%20First%20Inning%20Score%20Predictor.py
+#### Link:https://github.com/KBJ09/IPL-First-Inning-Score-Predictor/blob/master/IPL%20First%20Inning%20Score%20Predictor.py
 
 • A glimpse of the web app:
 
